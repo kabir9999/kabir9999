@@ -8,6 +8,7 @@
 - 📫 How to reach me **guptashivansh770@gmail.com**
 
 <img align="center" src = "https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" width="300px" /> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/shivanshu-gupta-128055251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivanshu-gupta-128055251" height="30" width="40" /></a>
